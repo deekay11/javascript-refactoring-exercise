@@ -20,7 +20,7 @@ It should produce a summary of what things have been purchased and how many of e
 
 We've already created the unit tests to validate your solution.
 
-The unit tests are currently passing. They should continue to pass after you have refactored the code.
+The unit tests are currently passing. They should continue to pass after you have refactore d the code.
 
 ------------------
 
